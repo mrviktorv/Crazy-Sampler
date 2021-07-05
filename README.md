@@ -1,4 +1,4 @@
-# Myprojects
+# Crazy Sampler
 1) Run the application
 2) Enter the name of the sample you want to play with (name only, no extension type).
    The sample must be in the application folder.*
