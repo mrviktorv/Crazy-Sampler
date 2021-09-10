@@ -8,4 +8,4 @@
 * There are some readymade samples to play with, but You can add your own samples: they must be in .wav format (8, 16 or 32 bit),
 and they must be mono.
 
-Have fun!
+   Have fun!
